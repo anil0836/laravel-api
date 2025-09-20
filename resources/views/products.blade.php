@@ -23,6 +23,7 @@
                         <label for="description" class="form-label">Description</label>
                         <textarea class="form-control" id="description" rows="3"></textarea>
                     </div>
+                    <h1>i am anil developer</h1>
                     <div class="mb-3">
                         <label for="price" class="form-label">Price</label>
                         <input type="number" step="0.01" class="form-control" id="price" required>
